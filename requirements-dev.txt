@@ -1,0 +1,2 @@
+﻿# Development-only dependencies
+# Keep this small to avoid clutter
